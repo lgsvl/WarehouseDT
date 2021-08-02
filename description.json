@@ -1,8 +1,8 @@
 {
   "id": "",
-  "name": "WarehouseDongtan",
+  "name": "WarehouseDT",
   "accessType": "private",
-  "description": "The Warehouse Dogtan map is a warehouse for robotics",
+  "description": "The Warehouse DT map is a warehouse for robotics",
   "licenseName": "LG Content",
   "copyright": "LG Electronics Inc.",
   "tags": [
