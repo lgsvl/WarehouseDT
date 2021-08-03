@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3198420014227485780}
   - component: {fileID: 6210853080052830012}
   - component: {fileID: 8139999892723464536}
+  - component: {fileID: 1969206322601101177}
   m_Layer: 0
   m_Name: WarehouseDTShelfBar (3)
   m_TagString: Untagged
@@ -81,6 +82,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1969206322601101177
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1457646264377987045}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8105209056677440637, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
 --- !u!1 &1845093544049729873
 GameObject:
   m_ObjectHideFlags: 0
@@ -92,6 +107,7 @@ GameObject:
   - component: {fileID: 369992697593916669}
   - component: {fileID: 3206179191203182539}
   - component: {fileID: 6308853414327646153}
+  - component: {fileID: 8559298905273736938}
   m_Layer: 0
   m_Name: WarehouseDTShelf 1 (2)
   m_TagString: Untagged
@@ -162,6 +178,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8559298905273736938
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1845093544049729873}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1346981692988561122, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
 --- !u!1 &2845105147298503030
 GameObject:
   m_ObjectHideFlags: 0
@@ -204,6 +234,7 @@ GameObject:
   - component: {fileID: 6786856905430377899}
   - component: {fileID: 304457674860108890}
   - component: {fileID: 5165987422882306960}
+  - component: {fileID: 8469002710158752563}
   m_Layer: 0
   m_Name: WarehouseDTShelfBar (1)
   m_TagString: Untagged
@@ -274,6 +305,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8469002710158752563
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7644969968921931060}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8105209056677440637, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
 --- !u!1 &8157211489108351668
 GameObject:
   m_ObjectHideFlags: 0
@@ -285,6 +330,7 @@ GameObject:
   - component: {fileID: 8296304650170671849}
   - component: {fileID: 8456022630601157538}
   - component: {fileID: 3841542531873785278}
+  - component: {fileID: 7485443116098127837}
   m_Layer: 0
   m_Name: WarehouseDTShelf 1 (1)
   m_TagString: Untagged
@@ -355,6 +401,48 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7485443116098127837
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8157211489108351668}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1346981692988561122, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
+--- !u!64 &2424380944488880873
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6337683366559101873}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1346981692988561122, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
+--- !u!64 &2275858611739615076
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8357404267550248975}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8105209056677440637, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
 --- !u!1 &8408882235892464869
 GameObject:
   m_ObjectHideFlags: 0
@@ -366,6 +454,7 @@ GameObject:
   - component: {fileID: 6892230563795867436}
   - component: {fileID: 521861473676870504}
   - component: {fileID: 4560150976334435348}
+  - component: {fileID: 2125182411104290331}
   m_Layer: 0
   m_Name: WarehouseDTShelfBar (2)
   m_TagString: Untagged
@@ -436,6 +525,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2125182411104290331
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8408882235892464869}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8105209056677440637, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
 --- !u!1001 &8281860928927422808
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -525,6 +628,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fed7c7f7ad4a0974aa965a20e0fc91b8, type: 3}
+--- !u!1 &8357404267550248975 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -9145576897603876521, guid: fed7c7f7ad4a0974aa965a20e0fc91b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 8281860928927422808}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6337683366559101873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2674273770206653161, guid: fed7c7f7ad4a0974aa965a20e0fc91b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 8281860928927422808}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8459358651685715635 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: fed7c7f7ad4a0974aa965a20e0fc91b8,
